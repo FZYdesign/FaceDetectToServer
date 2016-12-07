@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#3A006F"
+    android:padding="@dimen/distance_30dp"
+    android:orientation="vertical"
+    >
+        <!--标题-->
+    <include
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    layout="@layout/top_radiobutton_title"
+    />
+    <!--主题-->
+    <FrameLayout
+        android:id="@+id/myFrameLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/round_buttom_white"
+        >
+        </FrameLayout>
+
+
+
+
+</LinearLayout>

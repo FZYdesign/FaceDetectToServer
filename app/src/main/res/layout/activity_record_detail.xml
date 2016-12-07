@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout
+	android:orientation="vertical"
+	android:id="@+id/loginRoot"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:background="@drawable/main_bg"
+	>
+	<LinearLayout
+		android:id="@+id/LinearLayout01"
+		android:layout_width="fill_parent"
+		android:layout_height="200dp"
+		android:layout_marginTop="20px"
+		>
+
+		<LinearLayout
+			android:id="@+id/LinearLayout11"
+			android:layout_width="wrap_content"
+			android:layout_height="match_parent"
+			android:layout_alignParentLeft="true"
+			android:layout_weight="0.43"
+			android:layout_marginLeft="20px"
+			android:orientation="vertical" >
+
+			<TextView
+				android:id="@+id/textView1"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_centerHorizontal="true"
+				android:layout_gravity="center"
+				android:text="抓拍人脸"
+				android:textSize="20dp" />
+
+			<ImageView
+				android:id="@+id/face_image2"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+				android:layout_weight="0.82"
+				android:layout_centerInParent="true"
+				android:src="@drawable/nobody" />
+		</LinearLayout>
+
+		<LinearLayout
+			android:id="@+id/face_layout"
+			android:layout_width="wrap_content"
+			android:layout_height="match_parent"
+			android:layout_alignParentRight="true"
+			android:layout_marginRight="20px"
+			android:layout_weight="0.41"
+			android:orientation="vertical" >
+
+			<TextView
+				android:id="@+id/textView2"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_centerHorizontal="true"
+				android:layout_gravity="center"
+				android:text="注册人脸"
+				android:textSize="20dp" />
+
+			<ImageView
+				android:id="@+id/face_image1"
+				android:layout_width="fill_parent"
+				android:layout_height="wrap_content"
+
+				android:layout_weight="0.73"
+				android:src="@drawable/nobody" />
+		</LinearLayout>
+	</LinearLayout>
+
+	<LinearLayout
+		android:id="@+id/LinearLayout02"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:orientation="vertical" >
+
+		<TextView
+			android:id="@+id/textFaceid"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:textSize="20dp"
+			android:layout_marginTop="20px"
+			android:layout_marginLeft="40px"
+			android:text="身份ID:" />
+
+		<TextView
+			android:id="@+id/textName"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_marginLeft="40px"
+			android:layout_marginTop="10px"
+			android:textSize="20dp"
+			android:text="注册名称:" />
+		<TextView
+			android:id="@+id/textType"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_marginLeft="40px"
+			android:layout_marginTop="10px"
+			android:textSize="20dp"
+			android:text="人脸类型:" />
+
+		<TextView
+			android:id="@+id/textScore"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:textSize="20dp"
+			android:layout_marginTop="10px"
+			android:layout_marginLeft="40px"
+			android:text="相似度:" />
+
+		<TextView
+			android:id="@+id/textTime"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_marginLeft="40px"
+			android:layout_marginTop="10px"
+			android:textSize="20dp"
+			android:text="抓拍时间:" />
+
+	</LinearLayout>
+
+	<LinearLayout
+		android:id="@+id/LinearLayout04"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:layout_marginBottom="10dp"
+		android:layout_weight="1.0"
+		android:gravity="bottom"
+		android:orientation="vertical" >
+
+		<Button
+			android:id="@+id/btnSave"
+			android:layout_width="fill_parent"
+			android:layout_height="50dp"
+			android:layout_marginLeft="40px"
+			android:layout_marginRight="40px"
+			android:background="@drawable/btn_long"
+			android:onClick="deleteRecord"
+			android:text="删除"
+			android:textColor="@color/white" />
+
+		<Button
+			android:id="@+id/btnUnSave"
+			android:layout_width="fill_parent"
+			android:layout_height="50dp"
+			android:layout_marginLeft="40px"
+			android:layout_marginRight="40px"
+			android:layout_marginTop="10px"
+			android:background="@drawable/btn_long_red"
+			android:onClick="returnBack"
+			android:text="返回"
+			android:textColor="@color/white" />
+
+	</LinearLayout>
+
+</LinearLayout>

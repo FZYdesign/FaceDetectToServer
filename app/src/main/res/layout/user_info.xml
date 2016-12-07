@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+   <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="#eee"
+        android:orientation="vertical" >
+        
+          <LinearLayout
+	    android:id="@+id/LinearLayouttitle"
+	    android:layout_width="fill_parent"
+	    android:layout_height="45dp"
+	    android:background="@drawable/action_bar_bg"
+	    android:gravity="center_vertical|center_horizontal|center"
+	    android:orientation="horizontal" >
+
+		<TextView
+		    android:id="@+id/textView3"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:text="用户信息修改 "
+		    android:textColor="@color/white"
+		    android:textSize="18dp" />
+	     
+     </LinearLayout>
+              	
+        <LinearLayout
+            	android:layout_width="fill_parent"
+            	android:layout_height="fill_parent"
+            	android:orientation="vertical" >
+
+      				<RelativeLayout
+            			android:layout_width="fill_parent"
+            			android:layout_height="50dp"
+            			android:gravity="center_vertical"
+            			android:clickable="true"
+            			android:onClick="modifyPasswd"
+            			android:layout_marginTop="14dp"
+            			android:background="@drawable/preference_first_item" >
+      
+						<ImageView
+      				        android:id="@+id/face_image2"
+      				        android:layout_width="wrap_content"
+      				        android:layout_height="wrap_content"
+      				        android:layout_alignParentRight="true"
+      				        android:layout_centerVertical="true"
+      				        android:scaleType="matrix"
+      				        android:src="@drawable/mm_submenu" />
+
+      				    <TextView
+      				        android:layout_width="wrap_content"
+      				        android:layout_height="wrap_content"
+      				        android:layout_alignParentTop="true"
+      				        android:layout_toRightOf="@+id/imageViewpic"
+      				        android:padding="8dp"
+      				        android:text="修改密码"
+      				        android:textColor="#000"
+      				        android:textSize="17sp" />
+
+      				    <ImageView
+      				        android:id="@+id/imageViewpic"
+      				        android:layout_width="25dp"
+      				        android:layout_height="25dp"
+      				        android:layout_alignBottom="@+id/face_image2"
+      				        android:layout_alignParentLeft="true"
+      				        android:layout_marginLeft="0dp"
+      				        android:scaleType="matrix"
+      				        android:src="@drawable/about_ic" />
+ 					
+      				</RelativeLayout>
+      				<!--   ***********************************************************************   -->
+      				
+      				<!--   ***********************************************************************   -->
+
+      				<RelativeLayout
+      				    android:layout_width="fill_parent"
+      				    android:layout_height="50dp"
+      				    android:background="@drawable/preference_last_item"
+      				    android:clickable="true"
+      				    android:gravity="center_vertical"
+      				    >
+
+      				    
+      				</RelativeLayout>
+
+      				<!--   ********************************************************************   -->
+
+      				<LinearLayout
+      				    android:layout_width="fill_parent"
+      				    android:layout_height="fill_parent"
+      				    android:gravity="bottom"
+      				    android:orientation="vertical" >
+
+      					<Button
+      					    android:id="@+id/btn_exit"
+      					    android:layout_width="fill_parent"
+      					    android:layout_height="50dp"
+      					    android:layout_marginLeft="10dp"
+      					    android:layout_marginRight="10dp"
+      					    android:layout_marginBottom="10dp"
+      					    android:background="@drawable/btn_long_red"
+      					    android:onClick="back_mainpage"
+      					    android:text="返回"
+      					    android:textColor="@color/white" />
+
+      				</LinearLayout>
+      				 
+     	</LinearLayout>
+  
+</LinearLayout>

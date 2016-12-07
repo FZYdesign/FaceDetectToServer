@@ -3,8 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/FaceDetectToServer.iml" filepath="$PROJECT_DIR$/FaceDetectToServer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/facedetectlibrary/facedetectlibrary.iml" filepath="$PROJECT_DIR$/facedetectlibrary/facedetectlibrary.iml" />
     </modules>
   </component>
 </project>

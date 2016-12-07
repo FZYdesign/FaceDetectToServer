@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="cardsdk">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/app/libs/cardsdk.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

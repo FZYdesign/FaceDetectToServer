@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- pulic -->
+    <string name="strInputAccHint">输入帐号</string>
+    <string name="strInputIpHint">输入服务器ip地址</string>
+    <string name="strAccInputLabel">帐号</string>
+    <string name="strAccInputIp">地址</string>
+    <string name="strPswInputLabel">密码</string>
+    <string name="strPswInputPort">端口</string>
+    <string name="opt_remember">记住</string>
+    <string name="login">Login</string>
+    <string name="SaveIp">设置</string>
+    <string name="txtAppTitle">移动人脸识别终端</string>
+    <string name="app_name">人脸识别</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtStartDetect">切换模式</string>
+    <string name="txtStopDetect">切换摄像头</string>
+    <string name="identity_id">identity id:</string>
+    <string name="txtClose">退出</string>
+    <string name="txtLogin">登录</string>
+    <string name="txtSetServer">设置服务器</string>
+    <string name="txtCheckRecord">查询记录</string>
+    <string name="txtSetting">设置参数</string>
+    <string name="title_activity_identify">IdentifyActivity</string>
+    <string name="title_activity_collect">CollectActivity</string>
+    <string name="txtDefaultTime">00:00:00:000</string>
+    <string name="holdFaceMsg">Please hold your face in the green rectange area.</string>
+    <string name="indentifyTimeout">The check face operate is time out for face identify.</string>
+    <string name="collectTimeout">The check face operate is time out for face collect.</string>
+    <string name="txtCameraBusy">The camera has been used by other application.</string>
+    <string name="txtCameraFail">The camera initialize fail.</string>
+    <string name="txtNoImage">No picture.</string>
+    <string name="txtSwitchCamera">切换摄像头</string>
+    <string name="txtCanNotRun">It can not run, the camera is not ok.</string>
+    <string name="txtIsRunning">It is running.</string>
+
+    <!-- Identify face -->
+    <string name="txtIdentifyTitle">Identify face</string>
+    <string name="txtCount">Similarity:</string>
+    <string name="txt_identity_id">Identity id:</string>
+    <string name="ide_consume_time">identify time:</string>
+    <!-- 0x00 从bundle中获取到的图片数据位空。 -->
+    <string name="errImgNull">The received image data is empty.\n Please retry to identify.</string>
+    <!-- 0x01 从服务器返回的结果为空。 -->
+    <string name="errRspNull">the response result is empty.\n Please retry to commit.</string>
+    <!-- 0x02 从服务器返回的结果无效。 -->
+    <string name="errRspInvalid">the response result is invalid.\n Please retry to commit.</string>
+    <!-- 0x03 本地提供的识别图片数据位空。 -->
+    <string name="errLocalImgNull">the local image data is null.\n  Please retry to identify.</string>
+    <!-- 0x04 服务器IP无效。 -->
+    <string name="errIpInvalid">the server IP is invalid.\n Please confirm the server and the network are correct.</string>
+    <!-- 0x05 与服务器的socket连接失败。 -->
+    <string name="errConnectFail">the server is connect fail.\n Please confirm the service and the network are correct.</string>
+    <!-- 0x06 与服务器的io通讯失败。 -->
+    <string name="errIoFail">the io operating is fail.\n Please retry to commit.</string>
+    <!-- 0x07 没有匹配的用户。 -->
+    <string name="errNoneMatch">None match user.\n Please the user has been registered.</string>
+    <string name="txtRight">Right</string>
+    <string name="txtError">Error</string>
+    <string name="txtHasCollect">Collected</string>
+    <string name="txtUnCollect">UnCollect</string>
+    <string name="msgSendLogSuccess">This identify is sent to server success.</string>
+
+    <!-- Collect faces -->
+    <string name="txtCollectTitle">Collect faces</string>
+    <string name="txt_sign">"*"</string>
+    <string name="col_consume_time">consume time:</string>
+    <!-- 采集图片目录不存在 -->
+    <string name="errPathNotExist">The collect Directory is not exist.\n Please retry to collect.</string>
+    <!-- 人脸模板创建不成功 -->
+    <string name="errCreateTemplateFail">The images create template fail.\n Please retry to collect.</string>
+    <!-- 当前图片不存在 -->
+    <string name="errCurrentNotExist">The image is not exist.\n Please retry to collect.</string>
+    <!-- 人脸图片采集成功。 -->
+    <string name="msgCollectSuccess">The face collection is success.</string>
+    <string name="msgCollectFail">The face collection is uncomplete.</string>
+    <string name="errIdentityIdInvalid">The identity Id is invalid.\n Please confirm the inputs is right.</string>
+    <string name="msgNetUnconnected">The network is down,\n Please check the network state.</string>
+    <!-- Service config -->
+    <string name="txtConfigTitle">Configuration</string>
+    <string name="txtCommit">Commit</string>
+    <string name="txtCancel">Cancel</string>
+    <string name="txtServiceTitle">Service Configuration</string>
+    <string name="txtServiceIp">Service IP:</string>
+    <string name="txtServicePort">Service Port:</string>
+    <string name="txtIpandPortEmpty">The server ip and port can not empty.</string>
+    <string name="txtInvalidIp">The server ip is not invalid.</string>
+    <string name="txtInvalidPort">The server port is not invalid.</string>
+    <string name="txtPromptConfig">Please config the server ip and port.</string>
+    <string name="txtPortNotNum">The server port must a number.</string>
+
+    <string name="str_paired_devices">已配对设备</string>
+
+    <string name="title_activity_new_setting_page">NewSettingPage</string>
+    <string name="title_activity_idcard_info_page">IDCardInfoPage</string>
+    <string name="title_activity_idcard_info">IDCardInfoActivity</string>
+    <string name="title_activity_background_image">BackgroundImage</string>
+    <string name="title_activity_ridi">ridiActivity</string>
+    <string name="title_activity_compare_rresult">CompareRresultActivity</string>
+    <!--身份证-->
+    <string name="IDCardName">姓名：</string>
+    <string name="IDCardNation">民族：</string>
+    <string name="IDCardSex">性别：</string>
+    <string name="IDCardBrithAndDate">家庭地址：</string>
+    <string name="IDCardAddress">家庭地址：</string>
+    <string name="title_activity_show_out_of_time">ShowOutOfTimeActivity</string>
+
+
+</resources>

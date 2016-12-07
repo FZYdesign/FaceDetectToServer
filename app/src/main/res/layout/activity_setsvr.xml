@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout 
+    android:orientation="vertical" 
+    android:id="@+id/loginRoot"
+	android:layout_width="fill_parent" 
+	android:layout_height="fill_parent"
+	xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout
+	    android:id="@+id/LinearLayouttitle"
+	    android:layout_width="fill_parent"
+	    android:layout_height="45dp"
+	    android:background="@drawable/action_bar_bg"
+	    android:gravity="center_vertical|center_horizontal|center"
+	    android:orientation="horizontal" >
+
+		<TextView
+		    android:id="@+id/textView3"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:text="服务器设置"
+		    android:textColor="@color/white"
+		    android:textSize="18dp" />
+	     
+     </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/LinearLayout01"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.0"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/TextView01"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="15.0sp"
+            android:layout_marginTop="20dp"
+            android:gravity="center_vertical"
+            android:paddingLeft="20.0sp"
+            android:text="@string/strAccInputIp"
+            android:textColor="#ff3f3f3f"
+            android:textSize="17.0dip" />
+
+        <EditText
+            android:id="@+id/edit_server_ip"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginBottom="5.0px"
+            android:layout_marginLeft="20.0dip"
+            android:layout_marginRight="10.0dip"
+            android:layout_marginTop="5.0dip"
+            android:background="@drawable/edit_login"
+            android:hint="@string/strInputIpHint"
+            android:maxLength="15"
+            android:paddingLeft="5.0sp"
+            android:saveEnabled="true" />
+
+        <TextView
+            android:id="@+id/TextView02"
+            android:layout_width="60dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dip"
+            android:layout_marginTop="20dp"
+            android:gravity="center_vertical"
+            android:paddingLeft="7.0sp"
+            android:text="@string/strPswInputPort"
+            android:textColor="#ff3f3f3f"
+            android:textSize="16.0dip" />
+
+        <EditText
+            android:id="@+id/edit_port"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dip"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/edit_login"
+            android:inputType="number"
+            android:maxLength="16"
+            android:paddingLeft="5.0sp"
+            android:saveEnabled="true" />
+
+        
+
+    </LinearLayout>
+
+     <LinearLayout
+         android:layout_width="fill_parent"
+         android:layout_height="wrap_content"
+         android:layout_marginBottom="10dp"
+         android:layout_weight="1.0"
+         android:gravity="bottom"
+         android:orientation="vertical" >
+        
+        <Button
+            android:id="@+id/btn_return"
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/btn_long"
+            android:onClick="set_Server"
+            android:text="@string/SaveIp"
+            android:textColor="@color/white" />
+
+        <Button
+            android:id="@+id/btn_setserverip"
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dip"
+            android:background="@drawable/btn_long_red"
+            android:onClick="set_return"
+            android:text="返回"
+            android:textColor="@color/white" />
+          </LinearLayout>
+
+</LinearLayout>

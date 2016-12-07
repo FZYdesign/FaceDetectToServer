@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="@dimen/distance_70dp"
+              android:layout_gravity="center_horizontal"
+              android:descendantFocusability="blocksDescendants"
+                android:layout_margin="@dimen/distance_5dp"
+              android:orientation="horizontal"
+    android:padding="@dimen/distance_5dp"
+
+    >
+
+
+
+    <CheckBox
+        android:id="@+id/isCheck"
+        android:layout_width="wrap_content"
+        android:layout_height="25dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:checked="false"
+        android:focusableInTouchMode="false"
+        android:gravity="center"
+
+        />
+
+    <!--   android:button="@null"
+        android:background="@null"
+         android:clickable="false"
+        android:focusable="false"
+        -->
+    <TextView
+        android:id="@+id/date_text_view"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1.5"
+        android:gravity="center"
+        android:text="来访时间"
+        android:textColor="@color/black"
+        android:textSize="15dp"
+        />
+
+    <TextView
+        android:id="@+id/who_text_view"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="来访人"
+        android:textColor="@color/black"
+        android:textSize="15dp"
+        />
+
+    <TextView
+        android:id="@+id/id_card_no_text_view"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="身份证号码"
+        android:textColor="@color/black"
+        android:textSize="15dp"
+        />
+
+    <TextView
+        android:id="@+id/compare_type_text_view"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="验证方式"
+        android:textColor="@color/black"
+        android:textSize="15dp"
+        />
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center"
+
+        >
+    <TextView
+        android:id="@+id/compare_result_text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/distance_25dp"
+        android:gravity="center"
+        android:text="验证结果"
+        android:textColor="@color/white"
+        android:textSize="@dimen/distance_15dp"
+        android:paddingTop="3dp"
+        android:paddingBottom="3dp"
+        android:paddingLeft="@dimen/distance_10dp"
+        android:paddingRight="@dimen/distance_10dp"
+        />
+        </LinearLayout>
+
+</LinearLayout>

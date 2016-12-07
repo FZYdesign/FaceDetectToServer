@@ -1,0 +1,131 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/BackgroundLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/main_bg"
+    android:gravity="center_horizontal"
+    tools:context="cn.runvision.facedetect.MainActivity" >
+
+    <View android:id="@+id/placeholder"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        />
+    <FrameLayout
+        android:id="@+id/preview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity = "center"
+        android:orientation="horizontal"
+
+        >
+
+        <cn.runvision.facedetect.view.CameraView
+            android:id="@+id/cameraView"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+    </FrameLayout>
+
+    <TableRow
+
+        android:visibility="gone"
+
+        android:id="@+id/tableRow2"
+        android:layout_width="fill_parent"
+        android:layout_height="60dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="0dp"
+        android:layout_marginRight="0dp"
+        android:layout_marginTop="45dp"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/btnCamera"
+            android:layout_width="72dp"
+            android:layout_height="35dp"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/btn_camera"
+            android:onClick="switchCamera" />
+
+    </TableRow>
+
+    <ImageView
+        android:id="@+id/id_face_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="30dp"
+        android:src="@drawable/nobody"
+
+        android:layout_marginLeft="@dimen/distance_25dp"
+        android:layout_marginBottom="@dimen/distance_20dp"
+        />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_alignParentBottom="true"
+        android:layout_marginRight="20dp"
+        android:layout_toRightOf="@+id/id_face_image"
+
+        android:layout_marginLeft="@dimen/distance_5dp"
+        android:layout_marginBottom="@dimen/distance_20dp"
+        >
+        <TextView
+            android:id="@+id/IDCard_name"
+            android:layout_width="@dimen/distance_150dp"
+            android:layout_height="match_parent"
+            android:text=""
+            android:textSize="11sp"
+            android:background="@drawable/round_bg"
+            android:padding="5dp"
+
+            />
+        <TextView
+            android:id="@+id/IDCard_sex"
+            android:layout_width="@dimen/distance_150dp"
+            android:layout_height="match_parent"
+            android:text=""
+            android:textSize="11sp"
+
+            android:background="@drawable/round_bg"
+            android:padding="5dp"
+            android:layout_marginTop="@dimen/distance_5dp"
+
+            android:visibility="gone"
+            />
+        <TextView
+            android:id="@+id/IDCard_brith"
+            android:layout_width="@dimen/distance_150dp"
+            android:layout_height="match_parent"
+            android:text=""
+            android:textSize="11sp"
+            android:background="@drawable/round_bg"
+            android:padding="5dp"
+            android:layout_marginTop="@dimen/distance_5dp"
+
+            android:visibility="gone"
+            />
+        <TextView
+            android:id="@+id/IDCard_address"
+            android:layout_width="@dimen/distance_150dp"
+            android:layout_height="match_parent"
+            android:text=""
+            android:textSize="11sp"
+            android:background="@drawable/round_bg"
+            android:padding="5dp"
+            android:layout_marginTop="@dimen/distance_5dp"
+            />
+    </LinearLayout>
+
+</RelativeLayout>

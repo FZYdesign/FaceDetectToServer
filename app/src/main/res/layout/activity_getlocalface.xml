@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/loginRoot"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+	android:background="@drawable/main_bg"
+	>
+
+
+	     
+
+
+     <FrameLayout
+        android:id="@+id/preview"
+        android:layout_centerHorizontal="true"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+		 android:padding="80dp"
+       
+        >
+		 <TextView
+		 android:id="@+id/textView3"
+		 android:layout_width="match_parent"
+		 android:layout_height="wrap_content"
+		 android:text="获取本地人脸模板"
+		 android:textColor="@color/line_buttom"
+		android:gravity="center_horizontal"
+		 android:textSize="11dp" />
+
+            <ImageView
+                android:id="@+id/idcardpicimg"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:src="@drawable/nobody" 
+                android:onClick="getLocalFace"/>
+            
+             <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="点击界面，从本地相册获取图片!"
+                android:textSize="8dp"
+                android:textColor="@color/line_buttom" />
+
+   </FrameLayout>
+</LinearLayout>

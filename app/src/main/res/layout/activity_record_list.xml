@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimaryDark"
+
+
+    >
+    <LinearLayout
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/distance_40dp"
+        android:orientation="horizontal"
+        android:layout_marginTop="@dimen/distance_15dp"
+        >
+    <ImageView
+        android:layout_width="@dimen/distance_50dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:layout_marginLeft="@dimen/distance_25dp"
+        android:background="@drawable/go_back"
+        android:onClick="goBack"
+        />
+    <LinearLayout
+        android:layout_width="@dimen/distance_200dp"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:layout_marginLeft="@dimen/distance_30dp"
+        android:background="@drawable/top_round_white"
+        android:layout_gravity="center"
+        android:gravity="center"
+        >
+        <ImageView
+            android:layout_width="@dimen/distance_25dp"
+            android:layout_height="@dimen/distance_25dp"
+            android:layout_gravity="center"
+            android:background="@drawable/support_setting_h"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+           android:textSize="@dimen/distance_20dp"
+            android:text="访客查询"
+            />
+    </LinearLayout>
+    </LinearLayout>
+
+    <!--<LinearLayout-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:layout_marginBottom="45dp"-->
+        <!--android:layout_marginLeft="10dp"-->
+        <!--android:layout_marginRight="10dp"-->
+        <!--android:layout_marginTop="30dp"-->
+        <!--android:background="@drawable/auth_result_bg"-->
+        <!--android:orientation="horizontal"-->
+        <!--&gt;-->
+
+        <!--<LinearLayout-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent"-->
+            <!--android:layout_marginBottom="15dp"-->
+            <!--android:layout_marginLeft="15dp"-->
+            <!--android:layout_marginTop="5dp"-->
+            <!--android:layout_weight="3"-->
+            <!--android:orientation="vertical"-->
+            <!--&gt;-->
+
+<LinearLayout
+    android:layout_below="@+id/title"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/round_white"
+    android:layout_marginLeft="@dimen/distance_20dp"
+    android:layout_marginRight="@dimen/distance_20dp"
+    android:layout_marginBottom="@dimen/distance_30dp"
+    >
+
+                <!-- 搜索条件 -->
+               <LinearLayout
+                    android:id="@+id/set_query_layout"
+                    android:layout_width="wrap_content"
+                    android:layout_height="30dp"
+                    android:layout_alignParentLeft="true"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal"
+                    android:focusable="true"
+                    android:focusableInTouchMode="true"
+                   android:layout_marginTop="@dimen/distance_10dp"
+                   android:layout_marginLeft="@dimen/distance_10dp"
+                   android:layout_marginRight="@dimen/distance_10dp"
+                    >
+                       <!--<TextView
+                           android:layout_width="0dp"
+                           android:layout_weight="1"
+                           android:layout_height="match_parent"
+                           android:text="开始日期"
+                           android:textColor="@color/colorHui_91"
+                           android:gravity="center"
+                           android:textSize="@dimen/distance_15dp"
+                           />
+                       <EditText
+                           android:id="@+id/begin_time"
+                           android:layout_width="0dp"
+                           android:layout_weight="1"
+                           android:layout_height="match_parent"
+                           android:background="@drawable/round_hui"
+                           android:gravity="center"
+                           android:layout_marginLeft="@dimen/distance_5dp"
+                           android:layout_marginRight="@dimen/distance_5dp"
+                           android:textSize="@dimen/distance_15dp"
+                           />
+                       <TextView
+                           android:layout_width="0dp"
+                           android:layout_weight="1"
+                           android:layout_height="match_parent"
+                           android:text="结束日期"
+                           android:textColor="@color/colorHui_91"
+                           android:gravity="center"
+                           android:textSize="@dimen/distance_15dp"
+                           />
+                       <EditText
+                           android:id="@+id/end_time"
+                           android:layout_width="0dp"
+                           android:layout_weight="1"
+                           android:layout_height="match_parent"
+                           android:background="@drawable/round_hui"
+                           android:gravity="center"
+                           android:layout_marginLeft="@dimen/distance_10dp"
+                           android:layout_marginRight="@dimen/distance_10dp"
+                           android:textSize="@dimen/distance_15dp"
+                           />
+                       <TextView
+                           android:layout_width="0dp"
+                           android:layout_weight="1"
+                           android:layout_height="match_parent"
+                           android:text="查询条件"
+                           android:textColor="@color/colorHui_91"
+                           android:gravity="center"
+                           android:textSize="@dimen/distance_15dp"
+                           />
+                   <EditText
+                       android:id="@+id/search_input"
+                       android:layout_width="0dp"
+                       android:layout_weight="1"
+                       android:layout_height="match_parent"
+                       android:background="@drawable/round_hui"
+                       android:gravity="center"
+                       android:layout_marginLeft="@dimen/distance_10dp"
+                       android:layout_marginRight="@dimen/distance_10dp"
+                       android:textSize="@dimen/distance_15dp"
+                       />
+                       <Button
+                           android:id="@+id/search_bt"
+                           android:layout_width="0dp"
+                           android:layout_weight="1.5"
+                           android:layout_height="match_parent"
+                           android:background="@drawable/round_blue_5dp"
+                           android:gravity="center"
+                           android:hint="输入关键字"
+                           android:textSize="@dimen/distance_15dp"
+                           />
+                       <Button
+                           android:id="@+id/select_result_bt"
+                           android:layout_width="0dp"
+                           android:layout_weight="1.7"
+                           android:layout_height="match_parent"
+                           android:background="@drawable/round_orange"
+                           android:gravity="center"
+                           android:text="成功/失败"
+                           android:layout_marginLeft="@dimen/distance_10dp"
+                           android:textSize="@dimen/distance_15dp"
+                           />-->
+                   <TextView
+                        android:layout_marginLeft="@dimen/distance_10dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textSize="@dimen/distance_15dp"
+                        android:text="开始日期"/>
+
+                    <EditText
+                        android:gravity="center"
+                        android:layout_marginLeft="@dimen/distance_10dp"
+                        android:layout_marginRight="@dimen/distance_10dp"
+                        android:textSize="@dimen/distance_15dp"
+                        android:id="@+id/begin_time"
+                        android:layout_width="@dimen/distance_120dp"
+                        android:layout_height="wrap_content"
+                        android:hint="开始日期"
+                        android:textColor="@color/light_black"
+                        android:textColorHint="@color/light_black"
+                        android:clickable="true"
+                        android:background="@drawable/round_hui_ef"
+                        android:padding="@dimen/distance_5dp"
+                        />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:textSize="@dimen/distance_15dp"
+                        android:text="结束日期"/>
+                    <EditText
+                        android:background="@drawable/round_hui_ef"
+                        android:gravity="center"
+                        android:layout_marginLeft="@dimen/distance_10dp"
+                        android:layout_marginRight="@dimen/distance_10dp"
+                        android:textSize="@dimen/distance_15dp"
+                        android:id="@+id/end_time"
+                        android:layout_width="@dimen/distance_120dp"
+                        android:layout_height="wrap_content"
+                        android:hint="结束日期"
+                        android:textColor="@color/light_black"
+                        android:textColorHint="@color/light_black"
+                        android:padding="@dimen/distance_5dp"
+                        />
+
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:textSize="@dimen/distance_15dp"
+                        android:text="关键字"/>
+                        <EditText
+                            android:background="@drawable/round_hui_ef"
+                            android:gravity="center"
+                            android:layout_marginLeft="@dimen/distance_10dp"
+                            android:layout_marginRight="@dimen/distance_10dp"
+                            android:textSize="@dimen/distance_15dp"
+                            android:id="@+id/search_input"
+                            android:layout_width="@dimen/distance_120dp"
+                            android:layout_height="wrap_content"
+                            android:hint="输入关键字"
+                            android:textColor="@color/light_black"
+                            android:textColorHint="@color/light_black"
+                            android:padding="@dimen/distance_5dp"
+                            />
+
+                        <Button
+                            android:id="@+id/search_bt"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:layout_marginLeft="20dp"
+                            android:text="搜索"
+                            android:textSize="@dimen/distance_15dp"
+                            android:background="@drawable/round_orange"
+                            android:paddingLeft="@dimen/distance_5dp"
+                            android:paddingRight="@dimen/distance_5dp"
+                            android:textColor="@color/white"
+                            />
+                    <Button
+                        android:id="@+id/select_result_bt"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_marginLeft="20dp"
+                        android:text="成功/失败"
+                        android:textSize="@dimen/distance_15dp"
+                        android:background="@drawable/round_blue_5dp"
+                        android:padding="@dimen/distance_5dp"
+                        android:textColor="@color/white"
+                        />
+                   <Button
+                       android:id="@+id/export_btn"
+                       android:layout_width="wrap_content"
+                       android:layout_height="match_parent"
+                       android:layout_marginLeft="10dp"
+                       android:text="  导出记录  "
+                       android:textColor="@color/white"
+                       android:textSize="@dimen/distance_15dp"
+                       android:background="@drawable/round_green"
+                       android:padding="@dimen/distance_5dp"
+
+
+                       />
+
+                </LinearLayout>
+
+
+
+            <!--<LinearLayout-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_marginTop="5dp"-->
+                <!--android:background="#000"-->
+                <!--android:orientation="vertical"-->
+                <!--&gt;-->
+                <!--&lt;!&ndash; 日历 &ndash;&gt;-->
+                <!--<cn.runvision.facedetect.view.CalendarView-->
+                    <!--android:id="@+id/calendar"-->
+                    <!--android:layout_width="fill_parent"-->
+                    <!--android:layout_height="0dp"-->
+                    <!--android:layout_weight="2"-->
+
+                    <!--/>-->
+            <!--</LinearLayout>-->
+
+
+
+            <LinearLayout
+                android:layout_marginTop="@dimen/distance_15dp"
+                android:id="@+id/result_layout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_below="@+id/set_query_layout"
+                android:layout_above="@+id/operation_result_layout"
+                >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="35dp"
+                        android:background="@color/colorHui_a7"
+                        android:orientation="horizontal"
+                        >
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1.5"
+                            android:gravity="center"
+                            android:text="日期"
+                            android:textColor="@color/white"
+                            android:textStyle="bold"
+                            android:textSize="@dimen/distance_15dp"
+                            />
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:gravity="center"
+                            android:text="来访人"
+                            android:textColor="@color/white"
+                            android:textSize="@dimen/distance_15dp"
+                            android:textStyle="bold"
+
+                            />
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:gravity="center"
+                            android:text="身份证号码"
+                            android:textColor="@color/white"
+                            android:textSize="@dimen/distance_15dp"
+                            android:textStyle="bold"
+                            />
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:gravity="center"
+                            android:text="核验类型"
+                            android:textColor="@color/white"
+                            android:textSize="@dimen/distance_15dp"
+                            android:textStyle="bold"
+                            />
+
+                        <TextView
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:gravity="center"
+                            android:text="核验结果"
+                            android:textColor="@color/white"
+                            android:textSize="@dimen/distance_15dp"
+                            android:textStyle="bold"
+                            />
+
+                    </LinearLayout>
+
+                    <!--<View-->
+                        <!--android:layout_width="match_parent"-->
+                        <!--android:layout_height="0.5dp"-->
+                        <!--android:background="@color/line_buttom"-->
+                        <!--/>-->
+                    <!--标题-->
+
+                    <ListView
+                        android:id="@+id/one_day_record_list"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:listSelector="@null"
+
+                        />
+
+                    <!--<View-->
+                        <!--android:layout_width="match_parent"-->
+                        <!--android:layout_height="0.5dp"-->
+                        <!--android:background="@color/line_buttom"-->
+                        <!--/>-->
+
+            </LinearLayout>
+    </LinearLayout>
+
+           <LinearLayout
+                android:id="@+id/operation_result_layout"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:orientation="horizontal"
+                android:layout_alignParentBottom="true"
+                android:layout_marginLeft="@dimen/distance_25dp"
+
+                >
+
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="10dp"
+                    android:text="删除选择记录"
+                    android:textColor="@color/black"
+                    android:onClick="deleteChouse"
+                    android:textSize="11sp"
+                    android:background="@drawable/round_blue_5dp"
+                    android:padding="@dimen/distance_5dp"
+                    />
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="10dp"
+                    android:text="导出选择记录"
+                    android:textColor="@color/black"
+                    android:textSize="11sp"
+                    android:background="@drawable/round_green"
+                    android:padding="@dimen/distance_5dp"
+                    android:onClick="exportChouse"
+
+                    android:visibility="gone"
+
+                    />
+
+            </LinearLayout>
+
+    <TextView
+        android:id="@+id/total_text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="@dimen/distance_30dp"
+        android:layout_marginBottom="@dimen/distance_5dp"
+        android:textSize="15dp"
+        android:text="来访人数"/>
+
+</RelativeLayout>
+
+
+
+

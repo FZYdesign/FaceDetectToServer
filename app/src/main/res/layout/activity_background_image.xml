@@ -1,0 +1,37 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:myview="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/main_bg"
+    >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="none"
+        android:id="@+id/more_cityScrollView"
+        >
+        <cn.runvision.facedetect.view.MyGridView
+            android:id="@+id/myGridView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="20dp"
+            android:cacheColorHint="#cccccc"
+            android:gravity="center"
+            android:horizontalSpacing="20dp"
+            android:listSelector="@null"
+            android:numColumns="3"
+            android:smoothScrollbar="true"
+            android:verticalSpacing="20dp"
+            android:columnWidth="60dp"
+            android:stretchMode="columnWidth"
+
+            >
+        </cn.runvision.facedetect.view.MyGridView>
+    </ScrollView>
+
+</LinearLayout>
