@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/action_switch_camera"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/txtSwitchCamera"/>
+    <item
+        android:id="@+id/action_close"
+        android:title="@string/txtClose"
+         android:orderInCategory="101"
+          android:showAsAction="never"/>
+    <item android:id="@+id/action_setsvrip" android:title="@string/txtSetServer"></item>
+    <item android:id="@+id/action_showlist" android:title="@string/txtCheckRecord"></item>
+    <item android:id="@+id/action_setting" android:title="@string/txtSetting"></item>
+</menu>

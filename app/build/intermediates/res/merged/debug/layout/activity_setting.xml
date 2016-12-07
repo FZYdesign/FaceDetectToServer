@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/loginRoot"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+	    android:id="@+id/LinearLayouttitle"
+	    android:layout_width="fill_parent"
+	    android:layout_height="45dp"
+	    android:background="@drawable/action_bar_bg"
+	    android:gravity="center_vertical|center_horizontal|center"
+	    android:orientation="horizontal" >
+
+		<TextView
+		    android:id="@+id/textView3"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:text="参数设置"
+		    android:textColor="@color/white"
+		    android:textSize="18dp" />
+	     
+     </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/LinearLayout01"
+        android:layout_width="fill_parent"
+        android:layout_height="45dp"
+        android:layout_marginTop="5dp"
+        android:gravity="bottom"
+        android:orientation="horizontal"
+        android:paddingLeft="20dp" >
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="1:N比对阀值 (30~99)" />
+
+        <EditText
+            android:id="@+id/editSorce"
+            android:layout_width="87dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/edit_login"
+            android:layout_marginTop="5dp"
+            android:ems="10"
+            android:gravity="center_horizontal"
+            android:inputType="number"
+            android:maxLength="2"
+            android:textSize="20dp" >
+
+            <requestFocus />
+        </EditText>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="45dp"
+        android:layout_marginTop="5dp"
+        android:gravity="bottom"
+        android:orientation="horizontal"
+        android:paddingLeft="20dp" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="最大检索数量(1~10)" />
+
+        <EditText
+            android:id="@+id/editFaceNum"
+            android:layout_width="87dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/edit_login"
+            android:layout_marginTop="5dp"
+            android:ems="10"
+            android:gravity="center_horizontal"
+            android:inputType="number"
+            android:maxLength="2"
+            android:textSize="20dp" >
+
+            <requestFocus />
+        </EditText>
+    </LinearLayout>
+    
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="45dp"
+        android:layout_marginTop="5dp"
+        android:gravity="bottom"
+        android:orientation="horizontal"
+        android:paddingLeft="20dp" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="1:1比对阀值 (30~99)" />
+
+        <EditText
+            android:id="@+id/editSorce1to1"
+            android:layout_width="87dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/edit_login"
+            android:layout_marginTop="5dp"
+            android:ems="10"
+            android:gravity="center_horizontal"
+            android:inputType="number"
+            android:maxLength="2"
+            android:textSize="20dp" >
+
+            <requestFocus />
+        </EditText>
+    </LinearLayout>
+
+	<LinearLayout
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_weight="1.0"
+	    android:orientation="vertical" >
+
+	    <RelativeLayout
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_marginLeft="15.0px"
+	        android:layout_marginRight="15.0px"
+	        android:paddingBottom="10.0px"
+	        android:paddingTop="21.0px" >
+
+	        <TextView
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_alignParentLeft="true"
+	            android:layout_alignParentTop="true"
+	            android:layout_marginTop="18dp"
+	            android:text="人脸质量过滤:"
+	            android:textSize="20dp" />
+
+		<RadioGroup
+		    android:id="@+id/rg_quality"
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+			>
+
+		    <RadioButton
+		        android:id="@+id/radioButton1"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:layout_alignLeft="@+id/textView3"
+		        android:layout_below="@+id/textView3"
+		        android:layout_marginLeft="15dp"
+		        android:layout_marginTop="17dp"
+		        android:text="       系统默认"
+		        android:textSize="20dp" />
+
+		    <RadioButton
+		        android:id="@+id/radioButton2"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:layout_alignLeft="@+id/textView3"
+		        android:layout_below="@+id/radioButton1"
+		        android:layout_marginLeft="15dp"
+		        android:text="       标准质量"
+		        android:textSize="20dp" />
+
+		    <RadioButton
+		        android:id="@+id/radioButton3"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:layout_alignLeft="@+id/textView3"
+		        android:layout_below="@+id/radioButton2"
+		        android:layout_marginLeft="15dp"
+		        android:text="       高质量"
+		        android:textSize="20dp" />
+		</RadioGroup>
+
+	    </RelativeLayout>
+
+		 <LinearLayout
+		     android:id="@+id/RelativeLayout02"
+		     android:layout_width="fill_parent"
+		     android:layout_height="match_parent"
+		     android:layout_marginBottom="10.0dp"
+		     android:gravity="bottom"
+		     android:orientation="vertical" >
+
+	    <Button
+	        android:id="@+id/savesetting"
+	        android:layout_width="fill_parent"
+	        android:layout_height="50dp"
+	        android:layout_marginLeft="10dp"
+	        android:layout_marginRight="10dp"
+	        android:background="@drawable/btn_long"
+	        android:gravity="center_vertical|center_horizontal|center"
+	        android:onClick="saveSetting"
+	        android:text="保存"
+	        android:textColor="@color/white"
+	        />
+
+	    <Button
+	        android:id="@+id/btn_return"
+	        android:layout_width="fill_parent"
+	        android:layout_height="50dp"
+	        android:layout_marginLeft="10dp"
+	        android:layout_marginRight="10dp"
+	        android:layout_marginTop="10dp"
+	        android:background="@drawable/btn_long_red"
+	        android:gravity="center_vertical|center_horizontal|center"
+	        android:onClick="settingReturn"
+	        android:text="返回"
+	        android:textColor="@color/white"
+	         />
+
+	     </LinearLayout>
+
+	</LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,562 @@
+[
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_camera.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\btn_camera.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\preference_first_item.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\preference_first_item.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\preference_last_item.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\preference_last_item.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_green.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\round_green.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_long_pressed.9.png",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\btn_long_pressed.9.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_corner_brown.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\round_corner_brown.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_white.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\round_white.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blueradio.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\blueradio.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_info.9.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\icon_info.9.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_corner_green.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\round_corner_green.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_hui_15dp.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\round_hui_15dp.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\warning_btn_normal.9.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\warning_btn_normal.9.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_submenu.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\mm_submenu.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_takepicture.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\btn_takepicture.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_right.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\btn_right.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\admin_setting_imgselect.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\admin_setting_imgselect.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bj_bg.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\bj_bg.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn1t1_right.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\btn1t1_right.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_blue_15dp.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\round_blue_15dp.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_submenu.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\mm_submenu.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_app.png",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\logo_app.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\support_setting_imgselect.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\support_setting_imgselect.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_hui.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\round_hui.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progressbar.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\progressbar.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_left.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\btn_left.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\preference_last_item.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\preference_last_item.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\top_round_blue.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\top_round_blue.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camorama.png",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\camorama.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\title_button_bg.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\title_button_bg.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_ok.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\icon_ok.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_orange.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\round_orange.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\title_background.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\title_background.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\title_background.png",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\title_background.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_camera.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\btn_camera.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\title_button_unpressed.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\title_button_unpressed.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\support_setting_imgselect.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\support_setting_imgselect.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\top_round_white.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\top_round_white.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\preference_item.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\preference_item.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\firs2d.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\firs2d.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_style.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\checkbox_style.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\title_bar.9.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\title_bar.9.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\type_list.png",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\type_list.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_long_normal.9.png",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\btn_long_normal.9.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\preference_item.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\preference_item.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_blue_5dp.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\round_blue_5dp.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_long_red.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\btn_long_red.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\basic_setting_imgselect.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\basic_setting_imgselect.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\iforminput_bg.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\iforminput_bg.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_corner_brown.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\round_corner_brown.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\title_button_unpressed.png",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\title_button_unpressed.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\top_round_transparent.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\top_round_transparent.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image_generic.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\image_generic.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nobody.9.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\nobody.9.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progressbar_bg.9.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\progressbar_bg.9.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_long_red.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\btn_long_red.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blueradio.png",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\blueradio.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\border_white.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\border_white.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\warning_btn_normal.9.png",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\warning_btn_normal.9.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_clolr_select.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\text_clolr_select.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bj_bg.png",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\bj_bg.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_left.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\btn_left.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\iforminput_bg.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\iforminput_bg.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image_generic.png",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\image_generic.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_orange_15dp.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\round_orange_15dp.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_ok.9.png",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\dialog_ok.9.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\title_button_pressed.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\title_button_pressed.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_bg.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\round_bg.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\border_white.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\border_white.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_app.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\logo_app.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\basic_setting_imgselect.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\basic_setting_imgselect.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_long2.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\btn_long2.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\admin_setting_imgselect.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\admin_setting_imgselect.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\top_round_blue.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\top_round_blue.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_takepicture.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\btn_takepicture.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_ok.png",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\icon_ok.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_green_15dp.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\round_green_15dp.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\top_round_white.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\top_round_white.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\type_list.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\type_list.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_info.9.png",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\icon_info.9.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_green_15dp.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\round_green_15dp.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\title_button_bg.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\title_button_bg.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_white.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\round_white.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_green.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\round_green.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_orange.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\round_orange.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\title_bar.9.png",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\title_bar.9.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_long_normal.9.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\btn_long_normal.9.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nobody.9.png",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\nobody.9.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_long.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\btn_long.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\top_round_transparent.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\top_round_transparent.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_select.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\item_select.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_blue_5dp.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\round_blue_5dp.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_buttom_white.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\round_buttom_white.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\preference_single_item.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\preference_single_item.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_ok.9.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\dialog_ok.9.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_hui_15dp.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\round_hui_15dp.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_long2.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\btn_long2.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_style.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\checkbox_style.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\preference_first_item.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\preference_first_item.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_select.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\item_select.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_pressed_0.9.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\btn_pressed_0.9.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\function_setting_imgselect.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\function_setting_imgselect.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\preference_single_item.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\preference_single_item.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn1t1_right.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\btn1t1_right.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progressbar_bg.9.png",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\progressbar_bg.9.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_blue_15dp.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\round_blue_15dp.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_buttom_white.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\round_buttom_white.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_bar_color.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\progress_bar_color.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_bg.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\round_bg.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\title_button_pressed.png",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\title_button_pressed.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\function_setting_imgselect.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\function_setting_imgselect.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camorama.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\camorama.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_hui_ef.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\round_hui_ef.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_normal_0.9.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\btn_normal_0.9.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_bar_color.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\progress_bar_color.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radiobuttom_select.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\radiobuttom_select.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_long_pressed.9.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\btn_long_pressed.9.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progressbar_fg.png",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\progressbar_fg.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_pressed_0.9.png",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\btn_pressed_0.9.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_normal_0.9.png",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\btn_normal_0.9.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_hui.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\round_hui.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_right.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\btn_right.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_hui_ef.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\round_hui_ef.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_orange_15dp.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\round_orange_15dp.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radiobuttom_select.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\radiobuttom_select.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_corner_green.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\round_corner_green.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\warning_btn_pressed.9.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\warning_btn_pressed.9.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\firs2d.png",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\firs2d.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_long.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\btn_long.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_clolr_select.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\text_clolr_select.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\warning_btn_pressed.9.png",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\warning_btn_pressed.9.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progressbar_fg.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\progressbar_fg.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progressbar.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable\\progressbar.xml"
+    }
+]

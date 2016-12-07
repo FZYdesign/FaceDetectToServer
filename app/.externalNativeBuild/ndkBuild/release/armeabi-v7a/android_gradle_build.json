@@ -1,0 +1,65 @@
+{
+  "buildFiles": [
+    "D:\\www\\FaceDetectToServer\\app\\src\\main\\jni\\Android.mk",
+    "D:\\www\\FaceDetectToServer\\app\\src\\main\\jni\\Application.mk"
+  ],
+  "cleanCommands": [
+    "D:\\2016.10.13chengqing\\sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dD:\\www\\FaceDetectToServer\\app\\src\\main\\jni\\Android.mk NDK_APPLICATION_MK\u003dD:\\www\\FaceDetectToServer\\app\\src\\main\\jni\\Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDEBUG\u003d0 APP_PLATFORM\u003dandroid-14 NDK_OUT\u003dD:/www/FaceDetectToServer/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dD:\\www\\FaceDetectToServer\\app\\build\\intermediates\\ndkBuild\\release\\lib clean"
+  ],
+  "libraries": {
+    "face_identify-release-armeabi-v7a": {
+      "buildCommand": "D:\\2016.10.13chengqing\\sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dD:\\www\\FaceDetectToServer\\app\\src\\main\\jni\\Android.mk NDK_APPLICATION_MK\u003dD:\\www\\FaceDetectToServer\\app\\src\\main\\jni\\Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDEBUG\u003d0 APP_PLATFORM\u003dandroid-14 NDK_OUT\u003dD:/www/FaceDetectToServer/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dD:\\www\\FaceDetectToServer\\app\\build\\intermediates\\ndkBuild\\release\\lib D:/www/FaceDetectToServer/app/build/intermediates/ndkBuild/release/obj/local/armeabi-v7a/libface_identify.so",
+      "toolchain": "toolchain-armeabi-v7a",
+      "abi": "armeabi-v7a",
+      "artifactName": "face_identify",
+      "files": [
+        {
+          "src": "D:\\www\\FaceDetectToServer\\app\\src\\main\\jni\\CommLayerTcp.cpp",
+          "flags": "\"-gcc-toolchain\" \"D:/2016.10.13chengqing/sdk/ndk-bundle/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64\" \"-fpic\" \"-ffunction-sections\" \"-funwind-tables\" \"-fstack-protector-strong\" \"-Wno-invalid-command-line-argument\" \"-Wno-unused-command-line-argument\" \"-no-canonical-prefixes\" \"-fno-integrated-as\" \"-g\" \"-target\" \"armv7-none-linux-androideabi\" \"-march\u003darmv7-a\" \"-mfloat-abi\u003dsoftfp\" \"-mfpu\u003dvfpv3-d16\" \"-fno-exceptions\" \"-fno-rtti\" \"-mthumb\" \"-O0\" \"-UNDEBUG\" \"-fno-limit-debug-info\" \"-ID:/2016.10.13chengqing/sdk/ndk-bundle/build//../sources/cxx-stl/stlport/stlport\" \"-ID:/2016.10.13chengqing/sdk/ndk-bundle/build//../sources/cxx-stl//gabi++/include\" \"-ID:/www/FaceDetectToServer/app/src/main/jni\" \"-DANDROID\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-frtti\" \"-fexceptions\" \"-isystem\" \"D:/2016.10.13chengqing/sdk/ndk-bundle/build//../platforms/android-14/arch-arm/usr/include\""
+        },
+        {
+          "src": "D:\\www\\FaceDetectToServer\\app\\src\\main\\jni\\NetAuth.cpp",
+          "flags": "\"-gcc-toolchain\" \"D:/2016.10.13chengqing/sdk/ndk-bundle/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64\" \"-fpic\" \"-ffunction-sections\" \"-funwind-tables\" \"-fstack-protector-strong\" \"-Wno-invalid-command-line-argument\" \"-Wno-unused-command-line-argument\" \"-no-canonical-prefixes\" \"-fno-integrated-as\" \"-g\" \"-target\" \"armv7-none-linux-androideabi\" \"-march\u003darmv7-a\" \"-mfloat-abi\u003dsoftfp\" \"-mfpu\u003dvfpv3-d16\" \"-fno-exceptions\" \"-fno-rtti\" \"-mthumb\" \"-O0\" \"-UNDEBUG\" \"-fno-limit-debug-info\" \"-ID:/2016.10.13chengqing/sdk/ndk-bundle/build//../sources/cxx-stl/stlport/stlport\" \"-ID:/2016.10.13chengqing/sdk/ndk-bundle/build//../sources/cxx-stl//gabi++/include\" \"-ID:/www/FaceDetectToServer/app/src/main/jni\" \"-DANDROID\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-frtti\" \"-fexceptions\" \"-isystem\" \"D:/2016.10.13chengqing/sdk/ndk-bundle/build//../platforms/android-14/arch-arm/usr/include\""
+        },
+        {
+          "src": "D:\\www\\FaceDetectToServer\\app\\src\\main\\jni\\NetDeal.cpp",
+          "flags": "\"-gcc-toolchain\" \"D:/2016.10.13chengqing/sdk/ndk-bundle/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64\" \"-fpic\" \"-ffunction-sections\" \"-funwind-tables\" \"-fstack-protector-strong\" \"-Wno-invalid-command-line-argument\" \"-Wno-unused-command-line-argument\" \"-no-canonical-prefixes\" \"-fno-integrated-as\" \"-g\" \"-target\" \"armv7-none-linux-androideabi\" \"-march\u003darmv7-a\" \"-mfloat-abi\u003dsoftfp\" \"-mfpu\u003dvfpv3-d16\" \"-fno-exceptions\" \"-fno-rtti\" \"-mthumb\" \"-O0\" \"-UNDEBUG\" \"-fno-limit-debug-info\" \"-ID:/2016.10.13chengqing/sdk/ndk-bundle/build//../sources/cxx-stl/stlport/stlport\" \"-ID:/2016.10.13chengqing/sdk/ndk-bundle/build//../sources/cxx-stl//gabi++/include\" \"-ID:/www/FaceDetectToServer/app/src/main/jni\" \"-DANDROID\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-frtti\" \"-fexceptions\" \"-isystem\" \"D:/2016.10.13chengqing/sdk/ndk-bundle/build//../platforms/android-14/arch-arm/usr/include\""
+        },
+        {
+          "src": "D:\\www\\FaceDetectToServer\\app\\src\\main\\jni\\NetPublic.cpp",
+          "flags": "\"-gcc-toolchain\" \"D:/2016.10.13chengqing/sdk/ndk-bundle/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64\" \"-fpic\" \"-ffunction-sections\" \"-funwind-tables\" \"-fstack-protector-strong\" \"-Wno-invalid-command-line-argument\" \"-Wno-unused-command-line-argument\" \"-no-canonical-prefixes\" \"-fno-integrated-as\" \"-g\" \"-target\" \"armv7-none-linux-androideabi\" \"-march\u003darmv7-a\" \"-mfloat-abi\u003dsoftfp\" \"-mfpu\u003dvfpv3-d16\" \"-fno-exceptions\" \"-fno-rtti\" \"-mthumb\" \"-O0\" \"-UNDEBUG\" \"-fno-limit-debug-info\" \"-ID:/2016.10.13chengqing/sdk/ndk-bundle/build//../sources/cxx-stl/stlport/stlport\" \"-ID:/2016.10.13chengqing/sdk/ndk-bundle/build//../sources/cxx-stl//gabi++/include\" \"-ID:/www/FaceDetectToServer/app/src/main/jni\" \"-DANDROID\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-frtti\" \"-fexceptions\" \"-isystem\" \"D:/2016.10.13chengqing/sdk/ndk-bundle/build//../platforms/android-14/arch-arm/usr/include\""
+        },
+        {
+          "src": "D:\\www\\FaceDetectToServer\\app\\src\\main\\jni\\Public.cpp",
+          "flags": "\"-gcc-toolchain\" \"D:/2016.10.13chengqing/sdk/ndk-bundle/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64\" \"-fpic\" \"-ffunction-sections\" \"-funwind-tables\" \"-fstack-protector-strong\" \"-Wno-invalid-command-line-argument\" \"-Wno-unused-command-line-argument\" \"-no-canonical-prefixes\" \"-fno-integrated-as\" \"-g\" \"-target\" \"armv7-none-linux-androideabi\" \"-march\u003darmv7-a\" \"-mfloat-abi\u003dsoftfp\" \"-mfpu\u003dvfpv3-d16\" \"-fno-exceptions\" \"-fno-rtti\" \"-mthumb\" \"-O0\" \"-UNDEBUG\" \"-fno-limit-debug-info\" \"-ID:/2016.10.13chengqing/sdk/ndk-bundle/build//../sources/cxx-stl/stlport/stlport\" \"-ID:/2016.10.13chengqing/sdk/ndk-bundle/build//../sources/cxx-stl//gabi++/include\" \"-ID:/www/FaceDetectToServer/app/src/main/jni\" \"-DANDROID\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-frtti\" \"-fexceptions\" \"-isystem\" \"D:/2016.10.13chengqing/sdk/ndk-bundle/build//../platforms/android-14/arch-arm/usr/include\""
+        },
+        {
+          "src": "D:\\www\\FaceDetectToServer\\app\\src\\main\\jni\\facelib.cpp",
+          "flags": "\"-gcc-toolchain\" \"D:/2016.10.13chengqing/sdk/ndk-bundle/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64\" \"-fpic\" \"-ffunction-sections\" \"-funwind-tables\" \"-fstack-protector-strong\" \"-Wno-invalid-command-line-argument\" \"-Wno-unused-command-line-argument\" \"-no-canonical-prefixes\" \"-fno-integrated-as\" \"-g\" \"-target\" \"armv7-none-linux-androideabi\" \"-march\u003darmv7-a\" \"-mfloat-abi\u003dsoftfp\" \"-mfpu\u003dvfpv3-d16\" \"-fno-exceptions\" \"-fno-rtti\" \"-mthumb\" \"-O0\" \"-UNDEBUG\" \"-fno-limit-debug-info\" \"-ID:/2016.10.13chengqing/sdk/ndk-bundle/build//../sources/cxx-stl/stlport/stlport\" \"-ID:/2016.10.13chengqing/sdk/ndk-bundle/build//../sources/cxx-stl//gabi++/include\" \"-ID:/www/FaceDetectToServer/app/src/main/jni\" \"-DANDROID\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-frtti\" \"-fexceptions\" \"-isystem\" \"D:/2016.10.13chengqing/sdk/ndk-bundle/build//../platforms/android-14/arch-arm/usr/include\""
+        },
+        {
+          "src": "D:\\www\\FaceDetectToServer\\app\\src\\main\\jni\\ftpclient.cpp",
+          "flags": "\"-gcc-toolchain\" \"D:/2016.10.13chengqing/sdk/ndk-bundle/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64\" \"-fpic\" \"-ffunction-sections\" \"-funwind-tables\" \"-fstack-protector-strong\" \"-Wno-invalid-command-line-argument\" \"-Wno-unused-command-line-argument\" \"-no-canonical-prefixes\" \"-fno-integrated-as\" \"-g\" \"-target\" \"armv7-none-linux-androideabi\" \"-march\u003darmv7-a\" \"-mfloat-abi\u003dsoftfp\" \"-mfpu\u003dvfpv3-d16\" \"-fno-exceptions\" \"-fno-rtti\" \"-mthumb\" \"-O0\" \"-UNDEBUG\" \"-fno-limit-debug-info\" \"-ID:/2016.10.13chengqing/sdk/ndk-bundle/build//../sources/cxx-stl/stlport/stlport\" \"-ID:/2016.10.13chengqing/sdk/ndk-bundle/build//../sources/cxx-stl//gabi++/include\" \"-ID:/www/FaceDetectToServer/app/src/main/jni\" \"-DANDROID\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-frtti\" \"-fexceptions\" \"-isystem\" \"D:/2016.10.13chengqing/sdk/ndk-bundle/build//../platforms/android-14/arch-arm/usr/include\""
+        },
+        {
+          "src": "D:\\www\\FaceDetectToServer\\app\\src\\main\\jni\\gb2312.cpp",
+          "flags": "\"-gcc-toolchain\" \"D:/2016.10.13chengqing/sdk/ndk-bundle/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64\" \"-fpic\" \"-ffunction-sections\" \"-funwind-tables\" \"-fstack-protector-strong\" \"-Wno-invalid-command-line-argument\" \"-Wno-unused-command-line-argument\" \"-no-canonical-prefixes\" \"-fno-integrated-as\" \"-g\" \"-target\" \"armv7-none-linux-androideabi\" \"-march\u003darmv7-a\" \"-mfloat-abi\u003dsoftfp\" \"-mfpu\u003dvfpv3-d16\" \"-fno-exceptions\" \"-fno-rtti\" \"-mthumb\" \"-O0\" \"-UNDEBUG\" \"-fno-limit-debug-info\" \"-ID:/2016.10.13chengqing/sdk/ndk-bundle/build//../sources/cxx-stl/stlport/stlport\" \"-ID:/2016.10.13chengqing/sdk/ndk-bundle/build//../sources/cxx-stl//gabi++/include\" \"-ID:/www/FaceDetectToServer/app/src/main/jni\" \"-DANDROID\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-frtti\" \"-fexceptions\" \"-isystem\" \"D:/2016.10.13chengqing/sdk/ndk-bundle/build//../platforms/android-14/arch-arm/usr/include\""
+        },
+        {
+          "src": "D:\\www\\FaceDetectToServer\\app\\src\\main\\jni\\maintcp.cpp",
+          "flags": "\"-gcc-toolchain\" \"D:/2016.10.13chengqing/sdk/ndk-bundle/build//../toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64\" \"-fpic\" \"-ffunction-sections\" \"-funwind-tables\" \"-fstack-protector-strong\" \"-Wno-invalid-command-line-argument\" \"-Wno-unused-command-line-argument\" \"-no-canonical-prefixes\" \"-fno-integrated-as\" \"-g\" \"-target\" \"armv7-none-linux-androideabi\" \"-march\u003darmv7-a\" \"-mfloat-abi\u003dsoftfp\" \"-mfpu\u003dvfpv3-d16\" \"-fno-exceptions\" \"-fno-rtti\" \"-mthumb\" \"-O0\" \"-UNDEBUG\" \"-fno-limit-debug-info\" \"-ID:/2016.10.13chengqing/sdk/ndk-bundle/build//../sources/cxx-stl/stlport/stlport\" \"-ID:/2016.10.13chengqing/sdk/ndk-bundle/build//../sources/cxx-stl//gabi++/include\" \"-ID:/www/FaceDetectToServer/app/src/main/jni\" \"-DANDROID\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-frtti\" \"-fexceptions\" \"-isystem\" \"D:/2016.10.13chengqing/sdk/ndk-bundle/build//../platforms/android-14/arch-arm/usr/include\""
+        }
+      ],
+      "output": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\ndkBuild\\release\\obj\\local\\armeabi-v7a\\libface_identify.so"
+    }
+  },
+  "toolchains": {
+    "toolchain-armeabi-v7a": {
+      "cppCompilerExecutable": "D:\\2016.10.13chengqing\\sdk\\ndk-bundle\\build\\..\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

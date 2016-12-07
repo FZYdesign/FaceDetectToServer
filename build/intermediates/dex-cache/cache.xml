@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\www\FaceDetectToServer\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="D:\www\FaceDetectToServer\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.0_f036b26da151f7156f8d875c60b8b4adf467f19f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\www\FaceDetectToServer\app\libs\readcard0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="25395b6eff87ef6e093dddf1be243107bb3a7aa9">
+        <dex dex="D:\www\FaceDetectToServer\app\build\intermediates\pre-dexed\debug\readcard0_009adce4cf642a26cd8ff132695092727b63affa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GitHub\FaceDetectToServer\app\libs\idcardreadlib_hx.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4888085c07581644ac08f1f28c83a5e8dbde7f31">
+        <dex dex="D:\GitHub\FaceDetectToServer\app\build\intermediates\pre-dexed\debug\idcardreadlib_hx_5b36bf730da2ce0d339fa98556bb2b7492cf95a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\www\FaceDetectToServer\app\build\intermediates\exploded-aar\com.tencent.bugly\crashreport\2.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8fdb59d106ef625478e6f5753011e1568ce6507c">
+        <dex dex="D:\www\FaceDetectToServer\app\build\intermediates\pre-dexed\debug\com.tencent.bugly-crashreport-2.3.1_33d2b4d57348eae6a8bcc7588c862454702beb0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GitHub\FaceDetectToServer\app\libs\jxl.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="955fa72ef2e3d5a45db59d84802401f75bc973a5">
+        <dex dex="D:\GitHub\FaceDetectToServer\app\build\intermediates\pre-dexed\debug\jxl_139c9116b0c8409a400f4fb9c3f9fbacd84fd7af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GitHub\FaceDetectToServer\app\libs\cardsdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="262b2a94aaa97709e23c310b10bff7e4a61daa32">
+        <dex dex="D:\GitHub\FaceDetectToServer\app\build\intermediates\pre-dexed\debug\cardsdk_90b3e685e5307761cbdbdfba39533f099aed0450.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\www\FaceDetectToServer\app\libs\cardsdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="262b2a94aaa97709e23c310b10bff7e4a61daa32">
+        <dex dex="D:\www\FaceDetectToServer\app\build\intermediates\pre-dexed\debug\cardsdk_24ead0b5f8715786d5c0ef6c14c472a421777b10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\www\FaceDetectToServer\app\libs\idcardreadlib_hx.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4888085c07581644ac08f1f28c83a5e8dbde7f31">
+        <dex dex="D:\www\FaceDetectToServer\app\build\intermediates\pre-dexed\debug\idcardreadlib_hx_6ef740bcc013094b2ba7f50d7cc1f77b4f64e041.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GitHub\FaceDetectToServer\app\libs\readcard0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="25395b6eff87ef6e093dddf1be243107bb3a7aa9">
+        <dex dex="D:\GitHub\FaceDetectToServer\app\build\intermediates\pre-dexed\debug\readcard0_1943833788e676b315deb10aed65bdc21e92ab9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\www\FaceDetectToServer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="D:\www\FaceDetectToServer\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.4.0_342f4e5e1d64bb758efbfac690e499500ef9699b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\2016.10.13chengqing\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="D:\www\FaceDetectToServer\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0_b8864c8719e95275485b47fbc6634509445b3363.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\www\FaceDetectToServer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="D:\www\FaceDetectToServer\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.4.0_476019fedf59447d6e8587757fd7834ef1071333.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\www\FaceDetectToServer\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="D:\www\FaceDetectToServer\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_7321483f8d2a1a06df0aa402e3b0272e99d93d83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\www\FaceDetectToServer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="D:\www\FaceDetectToServer\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_abe5ba322388254c8fe44176fc23fa301a1d41bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\www\FaceDetectToServer\app\libs\jxl.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="955fa72ef2e3d5a45db59d84802401f75bc973a5">
+        <dex dex="D:\www\FaceDetectToServer\app\build\intermediates\pre-dexed\debug\jxl_cc6dc653789b6a533f899940712cf4e2a5e3ae45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GitHub\FaceDetectToServer\app\libs\FaceNative.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7f2d632317a12ea83123e14270ae1fcd27f7f394">
+        <dex dex="D:\GitHub\FaceDetectToServer\app\build\intermediates\pre-dexed\debug\FaceNative_5104572110b0134419524ecddd2c08c8be6aba55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GitHub\FaceDetectToServer\app\build\intermediates\exploded-aar\com.tencent.bugly\crashreport\2.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8fdb59d106ef625478e6f5753011e1568ce6507c">
+        <dex dex="D:\GitHub\FaceDetectToServer\app\build\intermediates\pre-dexed\debug\com.tencent.bugly-crashreport-2.3.1_83251ce3bf8c6f1b02bd912d0e6c70a5d77e5953.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\www\FaceDetectToServer\app\libs\FaceNative.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7f2d632317a12ea83123e14270ae1fcd27f7f394">
+        <dex dex="D:\www\FaceDetectToServer\app\build\intermediates\pre-dexed\debug\FaceNative_b8d1309388cb7d2fdb7948adc3c5a874de35c9b1.jar" />
+    </item>
+
+</items>

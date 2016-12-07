@@ -1,0 +1,11 @@
+{
+  "buildFiles": [
+    "D:\\www\\FaceDetectToServer\\app\\src\\main\\jni\\Android.mk",
+    "D:\\www\\FaceDetectToServer\\app\\src\\main\\jni\\Application.mk"
+  ],
+  "cleanCommands": [],
+  "libraries": {},
+  "toolchains": {},
+  "cFileExtensions": [],
+  "cppFileExtensions": []
+}

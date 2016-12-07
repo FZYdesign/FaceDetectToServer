@@ -1,0 +1,458 @@
+[
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\admin_password_fragment.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\layout\\admin_password_fragment.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ok_only_dialog.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\layout\\ok_only_dialog.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mylist_op_item.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\layout\\mylist_op_item.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\basic_fragment.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\layout\\basic_fragment.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_result_list.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\layout\\activity_result_list.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\function_fragment.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\layout\\function_fragment.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grid_view.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\layout\\grid_view.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\top_radiobutton_title.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\layout\\top_radiobutton_title.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_result_list.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\layout\\activity_result_list.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mygrid_item.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\layout\\mygrid_item.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gatevalve_setting.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\layout\\gatevalve_setting.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_facelogin.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\layout\\activity_facelogin.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popuwindow_info.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\layout\\popuwindow_info.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\read_idcard_failure.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\layout\\read_idcard_failure.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mygrid_item.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\layout\\mygrid_item.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_setting_page.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\layout\\activity_new_setting_page.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_readcard.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\layout\\activity_readcard.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_bg.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\layout\\dialog_bg.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_background_image.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\layout\\activity_background_image.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_passwd.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\layout\\activity_passwd.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_tab_settings.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\layout\\main_tab_settings.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_show_1t1_result.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\layout\\activity_show_1t1_result.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\read_idcard_failure.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\layout\\read_idcard_failure.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_registerface.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\layout\\activity_registerface.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_background_image.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\layout\\activity_background_image.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_firs2d.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\layout\\activity_firs2d.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_device.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\layout\\activity_device.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_info.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\layout\\user_info.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_tab_settings.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\layout\\main_tab_settings.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\admin_auth_fragment.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\layout\\admin_auth_fragment.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_record_list.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\layout\\activity_record_list.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\admin_password_fragment.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\layout\\admin_password_fragment.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main1t1.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\layout\\activity_main1t1.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_showface.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\layout\\activity_showface.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_info.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\layout\\user_info.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mylist_result_item.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\layout\\mylist_result_item.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mylist_item.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\layout\\mylist_item.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_welcome.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_nfc_main.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\layout\\activity_nfc_main.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_fragment.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\layout\\support_fragment.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setsvr.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\layout\\activity_setsvr.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_device.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\layout\\activity_device.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_idcard_info.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\layout\\activity_idcard_info.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_showface.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\layout\\activity_showface.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_setting_page.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\layout\\activity_new_setting_page.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\newdevice_item.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\layout\\newdevice_item.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_welcome.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_fragment.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\layout\\support_fragment.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_op_list.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\layout\\activity_op_list.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_record_list.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\layout\\activity_record_list.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_idcard_info.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\layout\\activity_idcard_info.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main1t1.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\layout\\activity_main1t1.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setsvr.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\layout\\activity_setsvr.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_show_out_of_time.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\layout\\activity_show_out_of_time.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_takemould.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\layout\\activity_takemould.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\newdevice_item.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\layout\\newdevice_item.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_show_out_of_time.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\layout\\activity_show_out_of_time.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_record_detail.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\layout\\activity_record_detail.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\admin_add_or_delete.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\layout\\admin_add_or_delete.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_nfc_main.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\layout\\activity_nfc_main.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\top_radiobutton_title.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\layout\\top_radiobutton_title.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_op_list.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\layout\\activity_op_list.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grid_row.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\layout\\grid_row.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_item.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\layout\\device_item.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_item.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\layout\\device_item.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_failshow.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\layout\\activity_failshow.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mylist_result_item.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\layout\\mylist_result_item.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_readcard.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\layout\\activity_readcard.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_registerface.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\layout\\activity_registerface.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_passwd.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\layout\\activity_passwd.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\imageview.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\layout\\imageview.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_firs2d.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\layout\\activity_firs2d.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mylist_op_item.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\layout\\mylist_op_item.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\imageview.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\layout\\imageview.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mylist_item.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\layout\\mylist_item.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_getlocalface.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\layout\\activity_getlocalface.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pop_up.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\layout\\pop_up.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_nfc.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\layout\\activity_nfc.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_info.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\layout\\dialog_info.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_show.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\layout\\activity_show.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\admin_fragment.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\layout\\admin_fragment.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select_mode.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\layout\\activity_select_mode.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_info.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\layout\\dialog_info.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\button_alone.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\layout\\button_alone.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_record_detail.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\layout\\activity_record_detail.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\admin_auth_fragment.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\layout\\admin_auth_fragment.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_getlocalface.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\layout\\activity_getlocalface.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\button_alone.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\layout\\button_alone.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_show.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\layout\\activity_show.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gatevalve_setting.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\layout\\gatevalve_setting.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grid_view.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\layout\\grid_view.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_bg.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\layout\\dialog_bg.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_facelogin.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\layout\\activity_facelogin.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\function_fragment.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\layout\\function_fragment.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ok_only_dialog.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\layout\\ok_only_dialog.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\admin_fragment.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\layout\\admin_fragment.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_failshow.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\layout\\activity_failshow.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\basic_fragment.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\layout\\basic_fragment.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_nfc.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\layout\\activity_nfc.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select_mode.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\layout\\activity_select_mode.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_takemould.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\layout\\activity_takemould.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grid_row.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\layout\\grid_row.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\admin_add_or_delete.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\layout\\admin_add_or_delete.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_show_1t1_result.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\layout\\activity_show_1t1_result.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popuwindow_info.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\layout\\popuwindow_info.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pop_up.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\layout\\pop_up.xml"
+    }
+]

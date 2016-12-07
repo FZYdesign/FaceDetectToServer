@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\menu\\login.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\menu\\login.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\menu\\record.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\menu\\record.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\menu\\login.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\menu\\login.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\menu\\record.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\menu\\record.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]

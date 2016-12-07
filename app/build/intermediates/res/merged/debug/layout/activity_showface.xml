@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/loginRoot"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+    <LinearLayout
+	    android:id="@+id/LinearLayouttitle"
+	    android:layout_width="fill_parent"
+	    android:layout_height="45dp"
+	    android:background="@drawable/action_bar_bg"
+	    android:gravity="center_vertical|center_horizontal|center"
+	    android:orientation="horizontal" >
+
+		<TextView
+		    android:id="@+id/textView3"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:text="1:1人脸模板"
+		    android:textColor="@color/white"
+		    android:textSize="18dp" />
+	     
+     </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/LinearLayout01"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        >
+
+        <LinearLayout
+            android:id="@+id/LinearLayout11"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_alignParentLeft="true"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/idcardpicimg"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:src="@drawable/nobody" />
+
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

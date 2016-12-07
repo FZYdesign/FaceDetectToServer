@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="cn.runvision.facedetect"
+    android:versionCode="3"
+    android:versionName="1.3" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="17" />
+
+    <!-- 授予程序使用摄像头的权限 -->
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+    <!-- WIFI权限 -->
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <!-- 文件读写权限 -->
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <!-- 网络权限 -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!-- 蓝牙权限 -->
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.READ_LOGS" />
+    <!--
+    android:theme="@android:style/Theme.Translucent"
+    android:screenOrientation="portrait"
+    -->
+
+    <uses-permission android:name="android.permission.NFC" />
+
+    <uses-feature
+        android:name="android.hardware.nfc"
+        android:required="true" />
+
+    <!--
+    USB权限
+    <uses-feature android:name="android.hardware.usb.host" />
+    <uses-permission android:name="android.hardware.usb.host" />
+    <uses-permission android:name="ANDROID.PERMISSION.HARDWARE_TEST" />
+    -->
+    <application
+        android:name="cn.runvision.facedetect.MyApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/logo_app"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+
+        <!-- 主界面 -->
+        <activity
+            android:name="cn.runvision.facedetect.MainActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape" />
+        <!-- android:screenOrientation="portrait" -->
+
+        <activity
+            android:name="cn.runvision.facedetect.WelcomeActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="cn.runvision.facedetect.SetServerIP"
+            android:label="设置服务器"
+            android:launchMode="singleTask" />
+        <activity
+            android:name="cn.runvision.facedetect.RecognizeRecordActivity"
+            android:configChanges="orientation"
+            android:label="查询记录"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:windowSoftInputMode="adjustPan|stateHidden" />
+        <activity
+            android:name="cn.runvision.facedetect.ShowOperationListPage"
+            android:label="操作日志"
+            android:launchMode="singleTask" />
+        <activity
+            android:name="cn.runvision.facedetect.ShowRecordDetailPage"
+            android:configChanges="orientation"
+            android:label="详细记录"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name="cn.runvision.facedetect.SettingPage"
+            android:label="设置参数"
+            android:launchMode="singleTask" />
+        <activity
+            android:name="cn.runvision.facedetect.OtherSetPage"
+            android:label="设置参数"
+            android:launchMode="singleTask" />
+        <activity
+            android:name="cn.runvision.facedetect.GridViewActivity"
+            android:label="图片预览"
+            android:launchMode="singleTask" />
+        <activity
+            android:name="cn.runvision.facedetect.ImageViewActivity"
+            android:label="图片预览"
+            android:launchMode="singleTask" />
+        <activity
+            android:name="cn.runvision.facedetect.AboutPage"
+            android:launchMode="singleTask" />
+        <activity
+            android:name="cn.runvision.facedetect.onetoonecompare.SelectMode"
+            android:launchMode="singleTask" />
+        <activity
+            android:name="cn.runvision.facedetect.onetoonecompare.BluetoothActivity"
+            android:launchMode="singleTask" />
+        <activity
+            android:name="cn.runvision.facedetect.BTReadIDCardActivity"
+            android:launchMode="singleTask" />
+        <!-- 图片模式 -->
+        <activity
+            android:name="cn.runvision.facedetect.onetoonecompare.Main1T1Activity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="cn.runvision.facedetect.onetoonecompare.TakeMouldActivity"
+            android:launchMode="singleTask" />
+        <activity
+            android:name="cn.runvision.facedetect.Show1T1ResultActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Translucent" />
+        <activity
+            android:name="cn.runvision.facedetect.onetoonecompare.ShowFaceActivity"
+            android:launchMode="singleTask" />
+        <activity
+            android:name="cn.runvision.facedetect.onetoonecompare.GetLocalFaceActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Translucent" />
+        <activity
+            android:name="cn.runvision.facedetect.MultipleFacesActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Translucent" />
+        <!--
+             android:theme="@android:style/Theme.Translucent"
+            android:screenOrientation="landscape"
+            android:configChanges="orientation"
+        -->
+        <activity
+            android:name="cn.runvision.facedetect.onetoonecompare.NFCMainActivity"
+            android:alwaysRetainTaskState="false"
+            android:launchMode="singleTask"
+            android:stateNotNeeded="true" />
+        <activity
+            android:name="cn.runvision.facedetect.onetoonecompare.NFCReadActivityNFC"
+            android:alwaysRetainTaskState="false"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:stateNotNeeded="true" />
+        <activity
+            android:name="cn.runvision.facedetect.NewSettingPage"
+            android:configChanges="orientation"
+            android:label="@string/title_activity_new_setting_page"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Translucent"
+            android:windowSoftInputMode="stateHidden" >
+            <intent-filter>
+                <action android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED"
+                android:resource="@xml/device_filter" />
+        </activity>
+        <activity
+            android:name="cn.runvision.facedetect.FaceLoginActivity"
+            android:launchMode="singleTask" />
+        <activity
+            android:name="cn.runvision.facedetect.UserInfoSetPage"
+            android:launchMode="singleTask" />
+        <activity
+            android:name="cn.runvision.facedetect.ModifyPasswdPage"
+            android:launchMode="singleTask" />
+        <activity
+            android:name="cn.runvision.facedetect.RegisterFaceActivity"
+            android:launchMode="singleTask" />
+        <activity
+            android:name="cn.runvision.facedetect.Firs2DPage"
+            android:launchMode="singleTask" />
+
+        <service android:name="cn.runvision.utils.MyService" >
+            <intent-filter>
+                <action android:name="com.firs.cn.MyService" />
+            </intent-filter>
+        </service>
+
+        <activity
+            android:name="cn.runvision.facedetect.IDCardInfoActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="身份证信息"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Translucent" />
+        <activity
+            android:name="cn.runvision.facedetect.BackgroundImage"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/title_activity_background_image"
+            android:launchMode="singleTask"
+            android:screenOrientation="landscape" />
+
+        <service
+            android:name="com.kaer.service.ReadID2Card"
+            android:priority="1000" />
+        <!--
+ ATTENTION: This was auto-generated to add Google Play services to your project for
+     App Indexing.  See https://g.co/AppIndexing/AndroidStudio for more information.
+        -->
+
+        <activity
+            android:name="cn.runvision.facedetect.ShowOutOfTimeActivity"
+            android:label="@string/title_activity_show_out_of_time"
+            android:screenOrientation="landscape" />
+        <!--
+ ATTENTION: This was auto-generated to add Google Play services to your project for
+     App Indexing.  See https://g.co/AppIndexing/AndroidStudio for more information.
+        -->
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+    </application>
+
+</manifest>

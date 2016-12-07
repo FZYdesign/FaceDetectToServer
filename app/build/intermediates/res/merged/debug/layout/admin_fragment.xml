@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:layout_gravity="center_vertical"
+    >
+
+    <include
+        android:id="@+id/admin_add_or_delete_title"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        layout="@layout/admin_add_or_delete"
+        />
+    <include
+        android:id="@+id/admin_password_title"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        layout="@layout/admin_password_fragment"
+        />
+    <include
+        android:id="@+id/admin_auth_title"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        layout="@layout/admin_auth_fragment"
+        />
+
+
+
+
+
+
+
+</LinearLayout>

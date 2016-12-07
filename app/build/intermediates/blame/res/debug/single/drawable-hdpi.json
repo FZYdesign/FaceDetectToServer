@@ -1,0 +1,506 @@
+[
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dialog_ok.9.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\dialog_ok.9.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\progressbar_bg.9.png",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\progressbar_bg.9.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\op_log_ic.png",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\op_log_ic.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logo_app.png",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\logo_app.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\nobody.9.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\nobody.9.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mm_title_back_focused.9.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\mm_title_back_focused.9.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_plus_signin_btn_text_light_normal.9.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\yuanshi_ic.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\yuanshi_ic.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\photo_library_ic.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\photo_library_ic.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\action_bar_bg.png",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\action_bar_bg.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_preference_last_normal.9.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_last_normal.9.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\preferences_ic.png",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\preferences_ic.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_preference_single_normal.9.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_single_normal.9.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\log_ic.png",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\log_ic.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_camera_normal.png",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\btn_camera_normal.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\percentage_btn_normal.png",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\percentage_btn_normal.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_camera_normal.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\btn_camera_normal.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\action_bar_bg.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\action_bar_bg.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\progressbar_fg.png",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\progressbar_fg.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mm_title_back_pressed.9.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\mm_title_back_pressed.9.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dialog_ok.9.png",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\dialog_ok.9.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\shoot_btn_pressed.png",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\shoot_btn_pressed.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_preference_single_normal.9.png",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_single_normal.9.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\percentage_btn_pressed.png",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\percentage_btn_pressed.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\shoot_btn_normal.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\shoot_btn_normal.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\login_bg_image.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\login_bg_image.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mm_title_back_normal.9.png",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\mm_title_back_normal.9.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\about_ic.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\about_ic.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\percentage_btn1t1_normal1.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\percentage_btn1t1_normal1.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_full_open_on_phone.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\setting_btn_normal.png",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\setting_btn_normal.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_preference_single_pressed.9.png",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_single_pressed.9.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_preference_pressed.9.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_pressed.9.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\setting_btn_pressed.png",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\setting_btn_pressed.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\shoot_btn_pressed.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\shoot_btn_pressed.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\about_ic.png",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\about_ic.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\check_circle_ic.png",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\check_circle_ic.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_ic_googleplayservices.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_google_signin_btn_text_dark_normal.9.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\percentage_btn1t1_normal1.png",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\percentage_btn1t1_normal1.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mm_submenu_normal.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\mm_submenu_normal.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\server_settings_ic.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\server_settings_ic.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\account_circle_ic.png",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\account_circle_ic.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\login_bg_image.png",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\login_bg_image.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_info.9.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\icon_info.9.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\percentage_btn_pressed.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\percentage_btn_pressed.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_ok.png",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\icon_ok.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\percentage_btn_normal.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\percentage_btn_normal.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_google_signin_btn_text_dark_focused.9.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\server_settings_ic.png",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\server_settings_ic.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\log_ic.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\log_ic.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_preference_single_pressed.9.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_single_pressed.9.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\edit_blue_ic.png",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\edit_blue_ic.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logo_small.9.png",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\logo_small.9.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_ok.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\icon_ok.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_google_signin_btn_text_light_normal.9.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mm_title_back_pressed.9.png",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\mm_title_back_pressed.9.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logo_app.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\logo_app.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mm_title_back_normal.9.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\mm_title_back_normal.9.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\op_log_ic.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\op_log_ic.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\preferences_ic.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\preferences_ic.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_google_signin_btn_icon_light_normal.9.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bj_bg.png",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\bj_bg.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\yuanshi_ic.png",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\yuanshi_ic.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\shoot_btn_normal.png",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\shoot_btn_normal.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_preference_pressed.9.png",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_pressed.9.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_preference_normal.9.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_normal.9.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_preference_first_normal.9.png",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_first_normal.9.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\progressbar_fg.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\progressbar_fg.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_google_signin_btn_text_light_focused.9.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_preference_first_normal.9.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_first_normal.9.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\setting_btn_pressed.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\setting_btn_pressed.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_google_signin_btn_text_light_pressed.9.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mm_submenu_normal.png",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\mm_submenu_normal.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logo_small.9.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\logo_small.9.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_preference_first_pressed.9.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_first_pressed.9.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\setting_btn_normal.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\setting_btn_normal.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\photo_library_ic.png",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\photo_library_ic.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_preference_last_normal.9.png",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_last_normal.9.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_preference_first_pressed.9.png",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_first_pressed.9.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_preference_last_pressed.9.png",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_last_pressed.9.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\yunshi_ic.png",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\yunshi_ic.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_info.9.png",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\icon_info.9.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_plus_signin_btn_text_light_focused.9.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\progressbar_bg.9.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\progressbar_bg.9.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mm_title_back_focused.9.png",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\mm_title_back_focused.9.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\account_circle_ic.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\account_circle_ic.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_google_signin_btn_icon_light_focused.9.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\percentage_btn1t1_pressed.png",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\percentage_btn1t1_pressed.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\edit_blue_ic.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\edit_blue_ic.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_preference_normal.9.png",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_normal.9.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\yunshi_ic.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\yunshi_ic.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_preference_last_pressed.9.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_last_pressed.9.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_camera_pressed.png",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\btn_camera_pressed.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\nobody.9.png",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\nobody.9.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\check_circle_ic.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\check_circle_ic.png"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mm_submenu_pressed.png",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\mm_submenu_pressed.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bj_bg.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\bj_bg.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_google_signin_btn_text_light_disabled.9.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_camera_pressed.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\btn_camera_pressed.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mm_submenu_pressed.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\mm_submenu_pressed.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\percentage_btn1t1_pressed.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\percentage_btn1t1_pressed.png"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-hdpi\\common_plus_signin_btn_text_dark_normal.9.png"
+    }
+]

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="readcard0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/readcard0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

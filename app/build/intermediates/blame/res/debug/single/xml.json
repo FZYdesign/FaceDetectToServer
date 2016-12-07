@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\xml\\device_filter.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\xml\\device_filter.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\xml\\device_filter.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\xml\\device_filter.xml"
+    }
+]

@@ -1,0 +1,66 @@
+
+[GLOBAL_INFO]
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+; 版本号
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+GUID=FI_0001030000_2013041301
+VERSION=4.15.0.0
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+; model number
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+MODELNUM=1
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+; recognize threshold
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+THRESHOLD=0
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+; 两个模型分数合成计算方式
+; 假设两个元模型各的分数是fScoer1、fScoer2
+;
+; SCORE_WEIGHT_1、SCORE_WEIGHT_2 是两个模型分数合成时的加权值
+; 计算模式<加权平均分>  	输出 (fScoer1 * SCORE_WEIGHT_1 + fScoer2 * SCORE_WEIGHT_2) / (SCORE_WEIGHT_1 + SCORE_WEIGHT_2)
+;
+; SCORECF 两个模型分数合成计算方式
+; 计算模式<SCORECF==1> 		输出 fScoer1
+; 计算模式<SCORECF==2> 		输出 fScoer2
+; 计算模式<SCORECF==101> 	输出 min(fScoer1, fScoer2)
+; 计算模式<SCORECF==102> 	输出 max(fScoer1, fScoer2)
+; 计算模式<SCORECF==103> 	输出 (fScoer1+fScoer2) / 2
+; 计算模式<SCORECF==104> 	输出 sqrt((fScoer1*fScoer1+fScoer2*fScoer2)/2)
+; 计算模式<SCORECF==?>		输出 (fScoer1+fScoer2) / 2
+; 
+; SCORE_WEIGHT_1、SCORE_WEIGHT_2 设置为大于等于1时，有效
+; SCORE_WEIGHT_1 和 SCORE_WEIGHT_2 都设置有效时，使用加权平均分计算方式
+; SCORE_WEIGHT_1 和 SCORE_WEIGHT_2 任一个无效时，不用加权平均分计算方式，而用 SCORECF 指定的计算方式
+;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+SCORE_WEIGHT_1=1
+SCORE_WEIGHT_2=1
+SCORECF=0
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+; model1 and model2 align ratio
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ALIGN_RATIO_1=1.0
+ALIGN_RATIO_2=1.0
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+; antispoofing setting 2013-06-25
+; <ANTISPOOFING_ENABLE> enable or disable the antispoofing function
+; <ANTISPOOFING_FEA_VER> the raw feature version（para model version）
+; <ANTISPOOFING_THRESHOLD> the antispoofing threshold, check is actual person if the anti value over this threshold
+;													value range [-5000, +5000]，default threshold is 0
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+[ANTISPOOFING]
+ANTISPOOFING_ENABLE=1
+ANTISPOOFING_FEA_VER=1
+ANTISPOOFING_THRESHOLD=0
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+; model1 information
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+[MODEL_INFO_1]
+PATH=20130413

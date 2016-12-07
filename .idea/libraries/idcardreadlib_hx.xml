@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="idcardreadlib_hx">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/idcardreadlib_hx.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

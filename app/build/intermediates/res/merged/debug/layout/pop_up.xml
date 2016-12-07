@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/loginRoot"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="@drawable/firs2d"
+    >
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+
+
+        android:layout_marginTop="5dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="11sp"
+            android:text="1:N比对阀值 (30~99)" />
+
+        <EditText
+            android:id="@+id/editSorce"
+            android:layout_width="wrap_content"
+            android:layout_height="18sp"
+            android:background="@drawable/input_n"
+            android:ems="10"
+            android:gravity="center_horizontal"
+            android:inputType="number"
+            android:maxLength="2"
+            android:textColor="@color/white"
+            android:textSize="11sp" >
+
+            <requestFocus />
+        </EditText>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingLeft="10dp" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="11sp"
+            android:text="最大检索数量(1~10)" />
+
+        <EditText
+            android:id="@+id/editFaceNum"
+            android:layout_width="wrap_content"
+            android:layout_height="18dp"
+            android:background="@drawable/input_n"
+            android:layout_marginTop="5dp"
+            android:ems="10"
+            android:gravity="center_horizontal"
+            android:inputType="number"
+            android:maxLength="2"
+            android:textColor="@color/white"
+            android:textSize="8sp" >
+
+            <requestFocus />
+        </EditText>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingLeft="10dp" >
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="11sp"
+            android:text="1:1比对阀值 (30~99)" />
+
+        <EditText
+            android:id="@+id/editSorce1to1"
+            android:layout_width="wrap_content"
+            android:layout_height="18dp"
+            android:background="@drawable/input_n"
+            android:layout_marginTop="5dp"
+            android:ems="10"
+            android:gravity="center_horizontal"
+            android:inputType="number"
+            android:maxLength="2"
+            android:textColor="@color/white"
+            android:textSize="11sp" >
+
+            <requestFocus />
+        </EditText>
+    </LinearLayout>
+
+       <LinearLayout
+           android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+           android:gravity="center"
+            android:orientation="vertical" >
+
+            <Button
+                android:id="@+id/savesetting"
+                android:layout_width="wrap_content"
+                android:layout_height="18dp"
+                android:gravity="center"
+                android:onClick="saveSetting"
+                android:text="保存"
+                android:textColor="@color/white"
+                android:background="@drawable/cancle_n"
+                />
+
+           <!-- <Button
+                android:id="@+id/btn_return"
+                android:layout_width="fill_parent"
+                android:layout_height="50dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/btn_long_red"
+                android:gravity="center_vertical|center_horizontal|center"
+                android:onClick="settingReturn"
+                android:text="返回"
+                android:textColor="@color/white"
+                />-->
+
+        </LinearLayout>
+
+   <!-- </LinearLayout>-->
+
+</LinearLayout>

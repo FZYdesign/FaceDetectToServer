@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\edit_login.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable-mdpi\\edit_login.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_check.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable-mdpi\\btn_check.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\edit_login.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable-mdpi\\edit_login.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\btn_check.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable-mdpi\\btn_check.xml"
+    }
+]

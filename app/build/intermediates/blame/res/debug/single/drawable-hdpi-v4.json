@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\GitHub\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\progress_bar_color.xml",
+        "source": "D:\\GitHub\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\progress_bar_color.xml"
+    },
+    {
+        "merged": "D:\\www\\FaceDetectToServer\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\progress_bar_color.xml",
+        "source": "D:\\www\\FaceDetectToServer\\app\\src\\main\\res\\drawable-hdpi\\progress_bar_color.xml"
+    }
+]
